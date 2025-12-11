@@ -1,0 +1,5 @@
+{
+  "name": "MuseGen AI - Music Creation Assistant",
+  "description": "An AI-powered music composition tool that generates ABC notation from natural language descriptions, featuring real-time sheet music rendering and audio playback.",
+  "requestFramePermissions": []
+}
